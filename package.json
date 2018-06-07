@@ -1,0 +1,14 @@
+{
+  "name": "eso-oracle",
+  "version": "1.0.0",
+  "description": "ESO Charactor info and quest manager",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wilson",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^2.0.2"
+  }
+}
